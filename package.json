@@ -1,0 +1,13 @@
+{
+  "id": "zalo",
+  "name": "Zalo",
+  "version": "1.0.0",
+  "description": "Zalo",
+  "main": "index.js",
+  "author": "Quang Ho <hnquang112@yahoo.com.vn>",
+  "license": "MIT",
+  "repository": "https://github.com/hnquang112/franz-recipe-zalo",
+  "config": {
+    "serviceURL": "https://chat.zalo.me/"
+  }
+}
